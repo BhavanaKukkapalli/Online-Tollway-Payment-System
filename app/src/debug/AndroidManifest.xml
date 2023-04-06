@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bhavana.gataway_2">
+
+    <application>
+        <activity android:name=".Registration" />
+        <activity android:name=".Proceed_to_payment" />
+        <activity android:name=".LoginPage" />
+    </application>
+
+</manifest>

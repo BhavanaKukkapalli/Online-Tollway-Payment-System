@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gataway_2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="error">error</string>
+</resources>

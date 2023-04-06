@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "522890201979",
+    "firebase_url": "https://gataway2.firebaseio.com",
+    "project_id": "gataway2",
+    "storage_bucket": "gataway2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522890201979:android:dfb45db75dd001c8",
+        "android_client_info": {
+          "package_name": "com.example.bhavana.gataway_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522890201979-6rjt93ohb6g23mq9a0covq1chg0h999g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhavana.gataway_2",
+            "certificate_hash": "99aeba244b7d967073f77842fad13cedaee4c864"
+          }
+        },
+        {
+          "client_id": "522890201979-rqsbfll8rb1o9jaibsmo7d8iponojron.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8YuNHATRZmiE78uWZEX-7pZYzfhS6K34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522890201979-rqsbfll8rb1o9jaibsmo7d8iponojron.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
